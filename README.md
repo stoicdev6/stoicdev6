@@ -1,4 +1,4 @@
-# Hi 👋 My name is Enver Vivas
+# Hi 👋
 
 ## Front-End Developer
 
